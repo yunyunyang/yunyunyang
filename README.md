@@ -1,4 +1,9 @@
 ### Hi there 👋
+---
+Welcome to my page!
+I'm Yun Yun and also go by Chloe. I was a software engineer and am now studying Data Analytics and Decision Science.
+
+[![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/yunyunyang/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/yunyunyang/github-readme-stats)
 
