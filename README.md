@@ -1,6 +1,6 @@
 ### Hey, Chloe here 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunyang&layout=compact">](https://github.com/yunyunyang/github-readme-stats)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunyan&layout=compact">](https://github.com/yunyunyang/github-readme-stats)
 
 
 I'm Yun Yun and also go by Chloe. I was a software engineer and am now a graduate student at RWTH.
