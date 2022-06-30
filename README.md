@@ -5,11 +5,10 @@
 
 I'm Yun Yun and also go by Chloe. I was a software engineer and am now a graduate student at RWTH.
 
-- 👩‍💻 Studying in Data Analytics and Decision Science
-- 🛠 Python / Java / JavaScript
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: cat lover
-- 🎞 https://letterboxd.com/yunyunyang/films/
+- 👩‍🎓 Studying in Data Analytics and Decision Science
+- 🛠 Python / Java / JavaScript / Vue
+- 😊 Pronouns: She/Her
+- ⚡ Fun fact: Cat lover
 
 <!--
 **yunyunyang/yunyunyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
