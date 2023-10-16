@@ -1,14 +1,17 @@
-### Hey, Chloe here 👋
+### Hey, welcome to my page! 👋
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunyang&layout=compact">](https://github.com/yunyunyang/)
 
 
-I'm Yun Yun and also go by Chloe. I was a software engineer and am now a graduate student at RWTH.
+I was a full-stack engineer and a graduate student at RWTH Aachen University.
 
 - 👩‍🎓 Studying in Data Analytics and Decision Science
-- 🛠 Python / Java / JavaScript / Vue
+- 🛠 Python / Java / JavaScript 
 - 😊 Pronouns: She/Her
-- ⚡ Fun fact: Cat lover
+- 🇹🇼 Taiwanese in Germany
+- 🔮 INFJ Personality
+- 🗣️ Mandarin, English, German (A2), Japanese (N5)
+
 
 <!--
 **yunyunyang/yunyunyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
