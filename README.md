@@ -1,4 +1,4 @@
-### Hey, welcome to my page! 👋
+### Hey, there! 👋
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunyang&layout=compact">](https://github.com/yunyunyang/)
 
