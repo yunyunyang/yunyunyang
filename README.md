@@ -3,7 +3,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunyang&layout=compact">](https://github.com/yunyunyang/)
 
 
-I was a full-stack engineer and a graduate student at RWTH Aachen University.
+I'm a full-stack engineer and a graduate student at RWTH Aachen University. #OpenToWork
 
 - 👩‍🎓 Studying in Data Analytics and Decision Science
 - 🛠 Python / Java / JavaScript 
