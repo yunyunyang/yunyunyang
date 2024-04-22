@@ -1,17 +1,15 @@
-### Hey, there! 👋
+### 👋 Hey, there! Welcome to my GitHub profile!
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunyang&layout=compact">](https://github.com/yunyunyang/)
 
+I'm passionate about coding and creating innovative solutions. Skilled in front-end and back-end development, as well as data processing and analysis. Let's collaborate and innovate together! 💻✨
 
-I'm a full-stack engineer and a graduate student at RWTH Aachen University. #OpenToWork
-
-- 👩‍🎓 Studying in Data Analytics and Decision Science
-- 🛠 Python / Java / JavaScript 
+- 👩🏻‍💻 Full-Stack Engineer / Data Engineer
+- 🛠 Python / Java / JavaScript
 - 😊 Pronouns: She/Her
 - 🇹🇼 Taiwanese in Germany
 - 🔮 INFJ Personality
-- 🗣️ Mandarin, English, German (A2), Japanese (N5)
-
+- 🗣️ Mandarin, English, German (A2)
 
 <!--
 **yunyunyang/yunyunyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
