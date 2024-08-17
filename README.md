@@ -11,19 +11,6 @@ I'm passionate about coding and creating innovative solutions. Skilled in front-
 - 🔮 INFJ Personality
 - 🗣️ Mandarin, English, German (A2)
 
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-W111B2PRHD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-gtag('config', 'G-W111B2PRHD');
-</script>
-
-</head>
-
 <!--
 **yunyunyang/yunyunyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
