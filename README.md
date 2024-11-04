@@ -5,10 +5,9 @@
 I'm passionate about coding and creating innovative solutions. Skilled in front-end and back-end development, as well as data processing and analysis. Let's collaborate and innovate together! 💻✨
 
 - 👩🏻‍💻 Full-Stack Engineer / Data Engineer
-- 🛠 Python / Java / JavaScript
+- 🛠 Java / Python / JavaScript
 - 😊 Pronouns: She/Her
 - 🇹🇼 Taiwanese in Germany
-- 🔮 INFJ Personality
 - 🗣️ Mandarin, English, German (A2)
 
 <!--
