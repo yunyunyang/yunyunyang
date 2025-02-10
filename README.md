@@ -5,10 +5,10 @@
 I'm passionate about coding and creating innovative solutions. Skilled in front-end and back-end development, as well as data processing and analysis. Let's collaborate and innovate together! 💻✨
 
 - 👩🏻‍💻 Full-Stack Engineer / Data Engineer
-- 🛠 Java / Python / JavaScript
+- 🛠 Java / Python / JavaScript / 
 - 😊 Pronouns: She/Her
 - 🇹🇼 Taiwanese in Germany
-- 🗣️ Mandarin, English, German (A2)
+- 🗣️ Mandarin (C2), English (C1), German (A2)
 
 <!--
 **yunyunyang/yunyunyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
