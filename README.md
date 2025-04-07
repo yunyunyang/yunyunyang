@@ -2,12 +2,11 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunyang&layout=compact">](https://github.com/yunyunyang/)
 
-I'm passionate about coding and creating innovative solutions. Skilled in front-end and back-end development, as well as data processing and analysis. Let's collaborate and innovate together! 💻✨
+I'm passionate about coding and creating innovative solutions. Skilled in back-end development and front-end, as well as data processing and analysis. Let's collaborate and innovate together! 💻✨
 
-- 👩🏻‍💻 Full-Stack Engineer / Data Engineer
-- 🛠 Java / Python / JavaScript / 
+- 👩🏻‍💻 Software Engineer / Data Engineer
+- 🛠 Java / Python / JavaScript
 - 😊 Pronouns: She/Her
-- 🇹🇼 Taiwanese in Germany
 - 🗣️ Mandarin (C2), English (C1), German (A2)
 
 <!--
